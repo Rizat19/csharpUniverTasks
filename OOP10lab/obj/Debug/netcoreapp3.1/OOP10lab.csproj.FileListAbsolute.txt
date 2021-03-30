@@ -1,0 +1,13 @@
+C:\Users\Rizat\RiderProjects\OOPexercises\OOP10lab\bin\Debug\netcoreapp3.1\OOP10lab.exe
+C:\Users\Rizat\RiderProjects\OOPexercises\OOP10lab\bin\Debug\netcoreapp3.1\OOP10lab.deps.json
+C:\Users\Rizat\RiderProjects\OOPexercises\OOP10lab\bin\Debug\netcoreapp3.1\OOP10lab.runtimeconfig.json
+C:\Users\Rizat\RiderProjects\OOPexercises\OOP10lab\bin\Debug\netcoreapp3.1\OOP10lab.runtimeconfig.dev.json
+C:\Users\Rizat\RiderProjects\OOPexercises\OOP10lab\bin\Debug\netcoreapp3.1\OOP10lab.dll
+C:\Users\Rizat\RiderProjects\OOPexercises\OOP10lab\bin\Debug\netcoreapp3.1\OOP10lab.pdb
+C:\Users\Rizat\RiderProjects\OOPexercises\OOP10lab\obj\Debug\netcoreapp3.1\OOP10lab.csprojAssemblyReference.cache
+C:\Users\Rizat\RiderProjects\OOPexercises\OOP10lab\obj\Debug\netcoreapp3.1\OOP10lab.AssemblyInfoInputs.cache
+C:\Users\Rizat\RiderProjects\OOPexercises\OOP10lab\obj\Debug\netcoreapp3.1\OOP10lab.AssemblyInfo.cs
+C:\Users\Rizat\RiderProjects\OOPexercises\OOP10lab\obj\Debug\netcoreapp3.1\OOP10lab.csproj.CoreCompileInputs.cache
+C:\Users\Rizat\RiderProjects\OOPexercises\OOP10lab\obj\Debug\netcoreapp3.1\OOP10lab.dll
+C:\Users\Rizat\RiderProjects\OOPexercises\OOP10lab\obj\Debug\netcoreapp3.1\OOP10lab.pdb
+C:\Users\Rizat\RiderProjects\OOPexercises\OOP10lab\obj\Debug\netcoreapp3.1\OOP10lab.genruntimeconfig.cache
